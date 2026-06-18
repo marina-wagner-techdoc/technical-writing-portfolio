@@ -8,10 +8,12 @@ I create structured, scalable documentation that makes complex systems understan
 
 ## 📂 Portfolio Overview
 
-This repository contains documentation samples based on a real fitness and wellness app (fitElle)
+This repository contains documentation samples based on a real fitness and wellness app (fitElle):  
 https://www.fitelle.app/
 
-The app is used here as a realistic scenario for documentation examples.
+The app is used as a realistic scenario for documentation examples, including user management and cycle tracking.
+
+The goal is to demonstrate structured, user-focused documentation in a modern Docs-as-Code setup.
 
 ---
 
