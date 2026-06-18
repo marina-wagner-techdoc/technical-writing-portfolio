@@ -1,18 +1,11 @@
 # Technical Writing Portfolio – Marina Wagner
 
-Senior Technical Communicator specializing in software and cloud documentation.
 
-I create structured, user-focused documentation that makes complex systems understandable and usable.
+This repository showcases selected documentation samples, demonstrating modern technical writing practices using a Docs-as-Code approach.
 
----
+The examples are based on a realistic app scenario and focus on structured, user-centered documentation.
 
-## 📂 Portfolio Overview
-
-This repository contains documentation samples based on a real AI-driven cycle tracking app (fitElle).
-
-The app is used as a realistic scenario for documentation examples, including user management and cycle tracking.
-
-The goal is to demonstrate structured, user-focused documentation in a modern Docs-as-Code setup.
+👉 Based on a real AI-driven cycle tracking app (fitElle): https://www.fitelle.app/
 
 ---
 
@@ -23,10 +16,11 @@ Located in `/api-doc`
 - Users API  
 - Cycle API  
 
+
 These examples demonstrate:
-- REST-style API structure  
-- Request and response documentation  
-- Clear and consistent formatting  
+- REST-style API structure and endpoints  
+- Clear request and response documentation  
+- Consistent and developer-friendly formatting
 
 ---
 
