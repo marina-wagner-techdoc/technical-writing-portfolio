@@ -1,4 +1,3 @@
-
 # Technical Writing Portfolio – Marina Wagner
 
 Senior Technical Communicator focused on software and cloud documentation.
@@ -7,62 +6,84 @@ I create structured, scalable documentation that makes complex systems understan
 
 ---
 
-## 📂 Portfolio Samples
+## 📂 Portfolio Overview
 
-### 🔹 API Documentation (fitElle)
+This repository contains documentation samples based on a fitness and wellness app scenario (fitElle).
+
+The focus is on realistic use cases such as user management and cycle tracking.
+
+---
+
+## 🔹 API Documentation
+
+Located in `/api-doc`
 
 - Users API  
 - Cycle API  
 
-→ REST-style documentation with request/response examples and structured endpoints  
+These examples demonstrate:
+- REST-style API structure  
+- Request and response documentation  
+- Clear and consistent formatting  
 
 ---
 
-### 🔹 User Documentation (fitElle)
+## 🔹 User Documentation
+
+Located in `/user-guide`
 
 - Getting Started Guide  
-- Feature overview and user guidance  
 
-→ Focus on clarity, usability, and structured content  
-
----
-
-### 🔹 UX Writing
-
-- UI text examples and microcopy  
-- Focus on clear, user-friendly language  
+Includes:
+- Step-by-step instructions  
+- Structured content  
+- Visual support (screenshots)  
 
 ---
 
-### 🔹 Compliance & Data Protection
+## 🔹 UX Writing
 
-- GDPR-related documentation aspects  
-- Privacy-focused wording and content structure  
-- Handling of user data in documentation  
+Located in `/ux-writing`
+
+- UI text examples  
+- Microcopy improvements  
+
+Focus:
+- clarity and usability  
+- user-centered language  
 
 ---
 
-## 🛠 Skills
+## 🔹 Compliance & Data Protection
+
+Located in `/compliance`
+
+- GDPR-related content examples  
+- Privacy-focused wording  
+
+Focus:
+- transparency  
+- user trust  
+- clear communication of data usage  
+
+---
+
+## 🛠 Skills Demonstrated
 
 - API documentation (REST)  
 - Docs-as-Code (Markdown, Git)  
-- UX writing & microcopy  
-- Structured documentation (DITA principles)  
-- Localization & terminology management  
+- UX writing  
+- Structured documentation  
 - Information architecture  
+- Localization & terminology management  
 
 ---
 
-## 🔗 About this Portfolio
+## 🔗 About
 
-This repository contains documentation samples created for portfolio purposes  
-using a Docs-as-Code approach.
-
-The examples are based on a fitness and wellness app scenario (fitElle),  
-focusing on real-world use cases such as cycle tracking and user management.
+This portfolio demonstrates a Docs-as-Code approach using Markdown and GitHub.
 
 ---
 
 ## 📫 Contact
-
-LinkedIn: linkedin.com/in/marina-wagner 
+[LinkedIn Profile](https://www.linkedin.com/in/marina-wagner-858126143/)
