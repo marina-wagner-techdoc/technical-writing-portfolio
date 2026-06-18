@@ -15,7 +15,7 @@ Fitelle is a fitness and wellness app designed to help users track workouts, nut
 
 Track your cycle by entering daily data in the app.
 
-../assets/cycle.png
+![](../assets/cycle.png)
 
 The cycle tracking screen allows users to log symptoms, track phases, and monitor patterns over time.
 
