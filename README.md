@@ -1,9 +1,10 @@
 # Technical Writing Portfolio – Marina Wagner
 
 
-This repository showcases selected documentation samples, demonstrating modern technical writing practices using a Docs-as-Code approach.
 
-The examples are based on a realistic app scenario and focus on structured, user-centered documentation.
+This portfolio showcases selected documentation samples, demonstrating modern technical writing practices using a Docs-as-Code approach (Markdown & Git).
+
+Explore the sections below to see different documentation types and UX writing examples.
 
 👉 Based on a real AI-driven cycle tracking app (fitElle)
 
