@@ -2,48 +2,67 @@
 
 ## Overview
 
-This section shows examples of UI text improvements with a focus on clarity, usability, and user guidance.
+This section showcases UI text improvements with a focus on clarity, usability, and user guidance.
 
 ---
 
 ## Example 1 – Goal Setting
 
-### Before
-Set goal.
+### 🔎 Problem
+The original text was vague and did not clearly indicate that the goal is personal.
 
-### After
-Set your personal fitness goal.
+### ✍️ Improvement
 
-✅ clearer  
-✅ more personal  
-✅ more user-friendly  
+**Before:**  
+Set goal.  
+
+**After:**  
+Set your personal fitness goal.  
+
+### ✅ UX Impact
+
+- Clarifies ownership ("your")  
+- Makes the action more intuitive  
+- Improves user engagement  
 
 ---
 
 ## Example 2 – Cycle Tracking
 
-### Before
-Add data.
+### 🔎 Problem
+The original text did not explain what kind of data should be added or why it matters.
 
-### After
-Log your cycle information to track changes over time.
+### ✍️ Improvement
 
-✅ more specific  
-✅ explains purpose  
-✅ reduces user uncertainty  
+**Before:**  
+Add data.  
+
+**After:**  
+Log your cycle information to track changes over time.  
+
+### ✅ UX Impact
+
+- Explains the purpose of the feature  
+- Reduces user uncertainty  
+- Aligns with user expectations (tracking, not just adding)  
 
 ---
 
 ## Example 3 – Error Message
 
-### Before
-Invalid input.
+### 🔎 Problem
+The error message did not provide guidance on how to resolve the issue.
 
-### After
-Enter a valid date in the format YYYY-MM-DD.
+### ✍️ Improvement
 
-✅ actionable  
-✅ precise  
-✅ helpful  
+**Before:**  
+Invalid input.  
 
----
+**After:**  
+Enter a valid date in the format YYYY-MM-DD.  
+
+### ✅ UX Impact
+
+- Provides clear, actionable guidance  
+- Reduces frustration  
+- Helps users recover quickly from errors 
