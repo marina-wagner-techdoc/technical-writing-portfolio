@@ -19,9 +19,11 @@ Located in `/api-doc`
 
 
 These examples demonstrate:
+
 - REST-style API structure and endpoints  
 - Clear request and response documentation  
-- Consistent and developer-friendly formatting
+- Consistent and developer-friendly formatting  
+- Designed for clarity and ease of integration
 
 ---
 
@@ -46,8 +48,10 @@ Located in `/ux-writing`
 - Microcopy improvements  
 
 Focus:
+
 - clarity and usability  
-- user-centered language  
+- user guidance through microcopy  
+- improving user understanding and interaction 
 
 ---
 
@@ -69,7 +73,7 @@ Focus:
 
 - API documentation (REST)  
 - Docs-as-Code (Markdown, Git)  
-- UX writing  
+- UX writing & user guidance  
 - Structured documentation  
 - Information architecture  
 - Localization & terminology management  
