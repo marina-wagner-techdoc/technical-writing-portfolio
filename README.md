@@ -5,7 +5,7 @@ This repository showcases selected documentation samples, demonstrating modern t
 
 The examples are based on a realistic app scenario and focus on structured, user-centered documentation.
 
-👉 Based on a real AI-driven cycle tracking app (fitElle): https://www.fitelle.app/
+👉 Based on a real AI-driven cycle tracking app (fitElle)
 
 ---
 
