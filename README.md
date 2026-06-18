@@ -8,8 +8,7 @@ I create structured, user-focused documentation that makes complex systems under
 
 ## 📂 Portfolio Overview
 
-This repository contains documentation samples based on a real fitness and wellness app (fitElle):  
-https://www.fitelle.app/
+This repository contains documentation samples based on a real fitness and wellness app (fitElle)
 
 The app is used as a realistic scenario for documentation examples, including user management and cycle tracking.
 
