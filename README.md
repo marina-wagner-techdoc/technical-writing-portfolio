@@ -1,8 +1,8 @@
 # Technical Writing Portfolio – Marina Wagner
 
-Senior Technical Communicator focused on software and cloud documentation.
+👋 Hi, I’m Marina – Senior Technical Communicator specializing in software and cloud documentation.
 
-I create structured, scalable documentation that makes complex systems understandable and usable – from user guidance to API documentation.
+I create structured, user-focused documentation that makes complex systems understandable and usable.
 
 ---
 
